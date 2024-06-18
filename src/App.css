@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+}
+
+.App-nav {
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+}
+
+.App-nav a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.App-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.App-main {
+  padding: 20px;
+  text-align: left;
+}
+
+.App-main section {
+  margin-bottom: 20px;
+}
+
+.App-footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
