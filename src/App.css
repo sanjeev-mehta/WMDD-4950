@@ -79,6 +79,7 @@ body {
 .App-main {
   padding: 20px;
   text-align: left;
+  margin-bottom: 2rem;
 }
 
 .App-main section {

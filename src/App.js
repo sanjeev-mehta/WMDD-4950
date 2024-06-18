@@ -62,7 +62,7 @@ const Main = () => {
 const Footer = () => {
   return (
     <footer className="App-footer">
-      <p>&copy; 2024 Demo Page. All rights reserved.</p>
+      <p>&copy; 2024 Sanjeev Mehta. All rights reserved.</p>
     </footer>
   );
 };
